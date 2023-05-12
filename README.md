@@ -1,8 +1,8 @@
-# Todolist
+## Todolist
 
 Let's practice flutter
 
-## Getting Started
+# 기능
 
 This project is a starting point for a Flutter application.
 
@@ -18,3 +18,5 @@ bool isCompleted로 체크 여부 확인
 체크안되었던 상태 -> 체크 시 맨 아래로 이동
 
 dismissable 이용해 오른쪽으로 swipe 시 Todo 완전 삭제 기능 구현
+
+# 나중에는 위젯이나 기능마다 페이지 분리하기.. 시급..
