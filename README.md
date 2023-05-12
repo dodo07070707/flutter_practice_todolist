@@ -1,6 +1,6 @@
-# todolist
+# Todolist
 
-A new Flutter project.
+Let's practice flutter
 
 ## Getting Started
 
